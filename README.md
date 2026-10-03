@@ -1,0 +1,2 @@
+# mcp_test_gt_search_repo_amberheron20261004_02
+mcp_test_SEARCH_REPO_DESC_ironwillow20261004_02 benign synthetic repository metadata.
